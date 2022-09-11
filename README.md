@@ -37,8 +37,6 @@ This is a very simple and helpful tool taht you can make by your own.
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* Add a L7 option
-<br><br>
 
 -----
 
